@@ -1,6 +1,6 @@
 
       function calculate() {
-        // get the values of the grades and credit hours
+        // get the values of the grades
         const grade1 = parseFloat(document.getElementById("subject1").value);
         const grade2 = parseFloat(document.getElementById("subject2").value);
         const grade3 = parseFloat(document.getElementById("subject3").value);
